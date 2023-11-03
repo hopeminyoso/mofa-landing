@@ -13,7 +13,7 @@
 }
 
 .flag {
-  width: 40px;
+  width: 3rem; /* Adjust flag size */
   height: auto;
 }
 
@@ -25,8 +25,8 @@
 }
 
 .coat-of-arms {
-  max-width: 100px;
-  margin-top: 20px;
+  max-width: 150px; /* Adjust coat of arms size */
+  margin-top: 30px; /* Increase space from the top */
 }
 
 h1 {

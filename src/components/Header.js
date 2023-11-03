@@ -12,7 +12,7 @@ const Header = () => {
       </div>
       <div className="header-content">
         <img src={CoatOfArmsImage} alt="Coat of Arms" className="coat-of-arms" />
-        <h1>Ministry of Foreign Affairs</h1>
+        <h1>Ministry of Foreign and Diaspora Affairs</h1>
       </div>
     </header>
   );
